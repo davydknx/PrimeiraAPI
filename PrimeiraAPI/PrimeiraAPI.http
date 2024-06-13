@@ -1,0 +1,6 @@
+@PrimeiraAPI_HostAddress = http://localhost:7019
+
+GET {{PrimeiraAPI_HostAddress}}/api/Customer/
+Accept: application/json
+
+###
